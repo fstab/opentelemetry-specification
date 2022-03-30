@@ -66,6 +66,8 @@ release.
   ([#2290](https://github.com/open-telemetry/opentelemetry-specification/pull/2290))
 - Add semantic conventions for [CloudEvents](https://cloudevents.io).
   ([#1978](https://github.com/open-telemetry/opentelemetry-specification/pull/1978))
+- Allow JVM metrics to be synchronous
+  ([#2458](https://github.com/open-telemetry/opentelemetry-specification/pull/2458)
 
 ### Compatibility
 
